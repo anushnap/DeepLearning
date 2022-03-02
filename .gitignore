@@ -4,3 +4,6 @@ labs/
 data598-lecture01-winter2022.pdf
 environment.yml
 midterm/
+*.zip
+glove*
+*.tsv
